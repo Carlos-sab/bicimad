@@ -65,12 +65,12 @@ To install and use this package, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/bicimad-analysis.git
+   git clone https://github.com/Carlos-sab/bicimad.git
    ```
 
 2. **Navigate to the project directory**:
    ```bash
-   cd bicimad-analysis
+   cd bicimad
    ```
 
 3. **Install the required dependencies**:
