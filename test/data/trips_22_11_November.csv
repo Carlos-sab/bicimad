@@ -1,0 +1,13 @@
+fecha;idBike;fleet;trip_minutes;geolocation_unlock;address_unlock;unlock_date;locktype;unlocktype;geolocation_lock;address_lock;lock_date;station_unlock;dock_unlock;unlock_station_name;station_lock;dock_lock;lock_station_name
+;;;;;;;;;;;;;;;;;
+01/11/2022;1;1;23.0;{'type': 'Point', 'coordinates': [-3.7058415, 40.4205886]};Calle Miguel Moya;2022-11-01T00:00:17;STATION;STATION;{'type': 'Point', 'coordinates': [-3.6797296, 40.4483269]};Avenida del Doctor Arce;2022-11-01T00:23:14;2;3;Miguel Moya;148;1;Doctor Arce
+;;;;;;;;;;;;;;;;;
+01/11/2022;2;1;8.0;{'type': 'Point', 'coordinates': [-3.6993465, 40.4309524]};Calle Manuel Silvela;2022-11-01T00:00:25;STATION;STATION;{'type': 'Point', 'coordinates': [-3.7133412, 40.4306458]};Calle Guzman el Bueno;2022-11-01T00:08:54;1;1;Manuel Silvela;131;9;Guzman el Bueno
+;;;;;;;;;;;;;;;;;
+01/11/2022;3;1;1.0;{'type': 'Point', 'coordinates': [-3.6840229, 40.4211802]};Calle Alcala;2022-11-02T00:00:32;STATION;STATION;{'type': 'Point', 'coordinates': [-3.6840229, 40.4211802]};Calle Alcala;2022-11-02T00:00:52;3;5;Velazquez;107;5;Velazquez
+;;;;;;;;;;;;;;;;;
+01/11/2022;4;1;9.0;{'type': 'Point', 'coordinates': [-3.6993465, 40.4309524]};Calle Manuel Silvela;2022-11-02T00:00:36;STATION;STATION;{'type': 'Point', 'coordinates': [-3.7133412, 40.4306458]};Calle Guzman el Bueno;2022-11-02T00:09:36;1;6;Manuel Silvela;131;8;Guzman el Bueno
+;;;;;;;;;;;;;;;;;
+01/11/2022;1;1;1.0;{'type': 'Point', 'coordinates': [-3.6797296, 40.4483269]};Avenida del Doctor Arce;2022-11-10T05:42:32;STATION;STATION;{'type': 'Point', 'coordinates': [-3.6797296, 40.4483269]};Avenida del Doctor Arce;2022-11-10T05:42:40;4;1;Doctor Arce;148;1;Doctor Arce
+;;;;;;;;;;;;;;;;;
+02/11/2022;8;1;0.5;{'type': 'Point', 'coordinates': [-3.6840229, 40.4211802]};Calle Alcala;2022-11-06T00:32:32;STATION;STATION;{'type': 'Point', 'coordinates': [-3.6840229, 40.4211802]};Gran Via;2022-11-02T01:00:52;3;5;Velazquez;107;5;Gran Via
